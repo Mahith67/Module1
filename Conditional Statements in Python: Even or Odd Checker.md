@@ -10,12 +10,14 @@ To write a Python program to check whether the given number is **even** or **odd
    - If true, print `"EVEN"`.
    - Else, print `"ODD"`.
 4. End the program.
+   
+## 🧾 Program
+
 a=int(input())
 if a%2==0:
     print("EVEN")
 else:
     print("ODD")
-## 🧾 Program
 
 ## Output
 <img width="663" height="364" alt="530273658-8ec1cf31-0eac-46f8-8910-636dac83aec1" src="https://github.com/user-attachments/assets/3a23ca4c-e4f7-4d0c-ae73-24a0a0d17cb7" />
